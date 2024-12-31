@@ -14,7 +14,7 @@ This is the backend service for the Hotel Management System, developed using Spr
 
 - **Backend Framework:** Spring Boot  
 - **Database:** PostgreSQL  
-- **Authentication:** JSON Web Token (JWT)
+
 
 ## Getting Started
 
